@@ -26,7 +26,7 @@ I enjoy turning messy data into clear, actionable insights and am currently seek
 
 - 🌱 Interests: machine learning, causal inference, fintech  
 - 💬 Ask me about this portfolio or my coursework in ML4T, Econometrics, and Systems Design  
-- 📫 Connect: [LinkedIn]([LinkedIn](https://www.linkedin.com/in/ashishtho) • [Email](mailto:AshishThomas2929@gmail.com)
+- 📫 Connect: ([LinkedIn](https://www.linkedin.com/in/ashishtho) • [Email](mailto:AshishThomas2929@gmail.com))
 
 ### Environment
 
