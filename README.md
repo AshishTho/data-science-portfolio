@@ -26,3 +26,11 @@ Reproduce with:
 
 ```bash
 conda env create -f environment.yml     # or  pip install -r requirements.txt
+## About the author
+
+👋 Hi, I’m **Ashish Thomas** — a dual major in Computer Science and Economics at Georgia Tech (rising junior).  
+I enjoy turning messy data into clear, actionable insights and am currently seeking **Summer 2026 data-science internships**.
+
+- 🌱 Interests: machine learning, causal inference, fintech  
+- 💬 Ask me about this portfolio or my coursework in ML4T, Econometrics, and Systems Design  
+- 📫 Connect: [LinkedIn](www.linkedin.com/in/ashishtho) • [Email](mailto:AshishThomas2929@gmail.com)
