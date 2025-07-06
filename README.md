@@ -11,7 +11,7 @@ Personal data-science projects & notebooks
 | `titanic_model.ipynb` | Logistic-regression and random-forest models, ROC-AUC comparison, confusion matrix, feature importance. | scikit-learn |
 
 <p align="center">
-  <img src="assets-roc_titanic.png" width="450" alt="ROC curve for Titanic models">
+  <img src="assets/roc_titanic.PNG" width="450" alt="ROC curve for Titanic models">
 </p>
 
 **Key takeaway:**  
